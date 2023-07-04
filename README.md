@@ -18,7 +18,6 @@ To run the WordCounter application, follow these steps:
 3. Install the necessary dependencies by running the following command: `pip install PySimpleGUI`.
 4. Run the Python script `word_counter.py`.
 5. Enter the text you want to analyze in the provided input field.
-6. Click the "Count" button to perform the analysis.
 7. View the results displayed on the application's interface.
 
 Feel free to experiment with different texts and explore the various analysis features offered by WordCounter.
